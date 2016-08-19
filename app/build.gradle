@@ -25,4 +25,14 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.4.0'
     compile 'com.android.support:design:23.4.0'
     compile 'com.android.support:support-v4:23.4.0'
+
+    // RecyclerView
+    compile 'com.android.support:recyclerview-v7:23.4.0'
+
+    // CardView
+    compile 'com.android.support:cardview-v7:23.4.0'
+
+    // Video Player Manager
+    compile 'com.github.danylovolokh:video-player-manager:0.2.0'
+    compile 'com.github.danylovolokh:list-visibility-utils:0.2.0'
 }
